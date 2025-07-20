@@ -1,0 +1,6 @@
+nc [hostname] [port]
+
+//hostname of other linux kernal
+// if you don't know. So, run command "hostname" on other computer
+
+ex. nc kartik 12002
