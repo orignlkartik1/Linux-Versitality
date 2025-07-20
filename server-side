@@ -3,3 +3,5 @@ nc -l -p [port]
 //port specified by you
 //Give your linux hostname to other linux kernal 
 //if you don't know. So,run this command "hostname" on your computer and give to other computer
+
+ex. nc -l -p 12002 
