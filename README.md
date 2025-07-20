@@ -1,6 +1,5 @@
-# NC-CHAT-SERVER
-It is only use in Linux Kernal .
-# 🗨️ Simple Chat Server using Netcat (`nc`)
+
+# 🗨️  NC-CHAT-SERVER (Simple Chat Server using Netcat (`nc`))
 
 A lightweight and minimalist chat application built using the powerful Netcat utility (`nc`). This project enables two users to chat over a local network or the internet using terminal-based commands.
 
