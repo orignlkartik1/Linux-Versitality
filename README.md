@@ -28,6 +28,6 @@ A lightweight and minimalist chat application built using the powerful Netcat ut
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/netcat-chat-server.git
-cd netcat-chat-server
+git clone https://github.com/orignlkartik1/nc-chat-server.git
+cd nc-chat-server
 
