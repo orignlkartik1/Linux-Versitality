@@ -1,6 +1,17 @@
+---->>>>>>  Client Side
+
 nc [hostname] [port]
 
 //hostname of other linux kernal
 // if you don't know. So, run command "hostname" on other computer
 
 ex. nc kartik 12002
+
+------>>>>> Server Side
+nc -l -p [port]
+
+//port specified by you
+//Give your linux hostname to other linux kernal 
+//if you don't know. So,run this command "hostname" on your computer and give to other computer
+
+ex. nc -l -p 12002 
